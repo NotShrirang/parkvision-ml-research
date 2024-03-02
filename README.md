@@ -1,4 +1,4 @@
-# dashboard-ml
+# Parkvision ML Research
 
 `run.py` turns on the camera, takes a photo, detects the number plate, saves the cropped image in `output/license-plate/`
 
